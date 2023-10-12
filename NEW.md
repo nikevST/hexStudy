@@ -4,3 +4,4 @@ def some_function(number):
 		return number
 
 #function recive a number and return it, if value is bigger then 0.
+new line for file
